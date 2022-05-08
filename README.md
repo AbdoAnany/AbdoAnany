@@ -3,7 +3,7 @@
  <p align="center" > <h1 align="center" > Hi There,Welcomes in My Portfolio! <img src="https://user-images.githubusercontent.com/21185758/90338872-fd1c7d00-dfec-11ea-96f1-ca4245a05836.gif" width="30px"></h1></p>
   <p align="center" >
  <div align="center">
-<img width="100%" height = "250px" src="https://events.flutter.dev/engage/assets/img/faq-hero.png" alt="cover" />
+<img width="100%" height = "250px" src="https://koenig-media.raywenderlich.com/uploads/2021/10/Teaching_Dash_.png" alt="cover" />
 </div>
 
 <h2>📫 How to reach me:</h2>
