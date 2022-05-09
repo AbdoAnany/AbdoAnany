@@ -1,10 +1,12 @@
 
 
+[![Linkedin:Amira](https://img.shields.io/badge/-Amira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amira-zahran-87b556175/)](https://www.linkedin.com/in/amira-zahran-87b556175/)
+
  <p align="center" > <h1 align="center" > Hi There,Welcomes in My Portfolio! <img src="https://user-images.githubusercontent.com/21185758/90338872-fd1c7d00-dfec-11ea-96f1-ca4245a05836.gif" width="30px"></h1></p>
   <p align="center" >
  <div align="center">
-  [![Linkedin:Amira](https://img.shields.io/badge/-Amira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amira-zahran-87b556175/)](https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)
-[!Linkedin:Abdelrahman](https://img.shields.io/badge/-Abdelrahman%20Anany-gold?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)(https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)
+  
+[![Linkedin:Abdelrahman](https://img.shields.io/badge/-Abdelrahman%20Anany-gold?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)](https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)
   
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
