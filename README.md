@@ -14,9 +14,9 @@
 ## I'm a Flutter Developer !!
 
 
-- 🌱 I’m currently learning IOS & flutter
+- 🌱 I’m currently working as a Flutter Developer
 - 👯  looking to collaborate with other content creators
-- 📫 You can shoot me an email at amira.salah.zahran@gmail.com! I'll try to respond as soon as I can
+- 📫 You can shoot me an email at eng.abdelrahman.anany@gmail.com! I'll try to respond as soon as I can
 
 <h2>📫 How to reach me:</h2>
 
