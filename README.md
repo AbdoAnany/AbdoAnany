@@ -3,7 +3,9 @@
  
  ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
  
+<img src="https://profile-counter.glitch.me/AbdoAnany/count.svg">
 
+[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/AbdoAnany?tab=followers)
  
   
 [![Linkedin:Abdelrahman](https://img.shields.io/badge/-Abdelrahman%20Anany-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)](https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)
