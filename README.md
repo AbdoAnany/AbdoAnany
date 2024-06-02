@@ -40,22 +40,27 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdoanany&show_icons=true&theme=dark&locale=en" alt="anii693" /></p><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=a-anany&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<h3></h3>
 
-<p></p>
+<hr height="12%" >
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoanany&theme=dark" alt="anii693" /></p>
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=a-anany&theme=dark" alt="anii693" />
-</p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=a-anany&theme=dark" alt="anii693" /></p>
+
+<hr height="12%" >
+
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+  
 <a href="https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 
 
 
-</p>
+
+
 <br>
 <p align="left"> <img src="https://abdoanany.com&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
