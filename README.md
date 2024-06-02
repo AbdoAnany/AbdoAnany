@@ -1,5 +1,4 @@
-<p align="center" > <h1 align="center" > Hi There,Welcomes in My Portfolio! <img src="https://user-images.githubusercontent.com/21185758/90338872-fd1c7d00-dfec-11ea-96f1-ca4245a05836.gif" width="30px"></h1></p>
-  <p align="center" >
+
   <p align="center">
   <h1 align="center">Welcome to <a href="https://www.abdoanany.com/">Abdelrahman Anany</a>'s Profile 👋</h1>
 </p>
