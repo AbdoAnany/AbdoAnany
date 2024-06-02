@@ -25,7 +25,6 @@
 ## 🔭 My GitHub Stats
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdoanany&theme=juicyfresh&no-bg=true" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoanany&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
@@ -47,6 +46,7 @@
 <br><br><br><br><br><br><br><br>
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=abdoanany&theme=juicyfresh&no-bg=true" />
 
 
 
