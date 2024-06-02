@@ -22,9 +22,9 @@
 
 
 
-<hr width="36%" >
+## 🔭 My GitHub Stats
 
-<h3>My GitHub Stats</h3>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoanany&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
