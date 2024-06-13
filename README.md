@@ -53,6 +53,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=abdoanany&theme=juicyfresh&no-bg=true" />
 
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abdoanany&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 
 
