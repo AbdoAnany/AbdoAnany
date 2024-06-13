@@ -61,21 +61,6 @@
 <h4 align="center">
 ## 🔭 My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoAnany&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-anany&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-
-
-<br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdoanany&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AbdoAnany&theme=react-dark&hide_border=true&area=true)
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoanany&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br>
-
 
 
 
