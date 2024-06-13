@@ -9,8 +9,7 @@
 
 
 <p align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/AbdoAnany.svg?style=social&label=Followers)](https://github.com/AbdoAnany?tab=followers)
- <img src="https://komarev.com/ghpvc/?username=AbdoAnany&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AbdoAnany&style=flat&color=blue"/> •   
   <a href="https://user-badge.committers.top/india_private/AbdoAnany"><img src="https://user-badge.committers.top/india_private/AbdoAnany.svg"/></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/AbdoAnany?label=Followers&style=social"/> •
