@@ -9,6 +9,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AbdoAnany.svg?style=social&label=Followers)](https://github.com/AbdoAnany?tab=followers)
  <img src="https://komarev.com/ghpvc/?username=AbdoAnany&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AbdoAnany&style=flat&color=blue"/> •   
+  <a href="https://user-badge.committers.top/india_private/AbdoAnany"><img src="https://user-badge.committers.top/india_private/AbdoAnany.svg"/></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/AbdoAnany?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/AbdoAnany?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/AbdoAnany"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
 
   
 [![Linkedin:Abdelrahman](https://img.shields.io/badge/-Abdelrahman%20Anany-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)](https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)
@@ -28,22 +35,6 @@
 
 
 ## 🔭 My GitHub Stats
-
-
-
-
-
-<p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AbdoAnany&style=flat&color=blue"/> •   
-  <a href="https://user-badge.committers.top/india_private/AbdoAnany"><img src="https://user-badge.committers.top/india_private/AbdoAnany.svg"/></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/AbdoAnany?label=Followers&style=social"/> •
-  <img src="https://img.shields.io/github/stars/AbdoAnany?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
-  <a href="https://github.com/sponsors/AbdoAnany"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
-
-
-
-#
 
 <details open="">
 <summary>
