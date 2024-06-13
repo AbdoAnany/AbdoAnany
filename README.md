@@ -27,6 +27,11 @@
 
 
 
+## 🔭 My GitHub Stats
+
+
+
+
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AbdoAnany&style=flat&color=blue"/> •   
@@ -56,14 +61,8 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AbdoAnany&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
-## 🔭 My GitHub Stats
-
-
-
-
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abdoanany&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
