@@ -35,31 +35,25 @@
   <img src="https://img.shields.io/github/stars/AbdoAnany?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
   <a href="https://github.com/sponsors/AbdoAnany"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FAbdoAnany" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AbdoAnany&theme=react-dark&hide_border=true&area=true)
+
 
 ## 🔭 My GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoAnany&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br>
+<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-anany&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 
 <br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdoanany&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=a-anany&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 
-<br><br><br><br><br><br><br><br>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoanany&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=a-anany&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 
