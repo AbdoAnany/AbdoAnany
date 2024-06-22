@@ -32,8 +32,6 @@
 
 
 
-
-
 ## 🔭 My GitHub Stats
 
 <details open="">
@@ -66,10 +64,11 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/abd-elrahman-anany-8132071b1/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://abdoanany.github.io/)
+
 <a href = 'https://twitter.com/Abdo__anany'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://abdoanany.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://github.com/AbdoAnany'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/
 
-------
