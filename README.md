@@ -6,6 +6,7 @@
   <h1 align="center">Welcome to <a href="https://www.abdoanany.com/">Abdelrahman Anany</a>'s Profile 👋</h1>
 </p>
  
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
  
 <img src="https://profile-counter.glitch.me/AbdoAnany/count.svg">
